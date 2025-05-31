@@ -1,0 +1,6 @@
+{
+    "git.ignoreLimitWarning": true,
+    "C_Cpp.errorSquiggles": "Disabled",
+    "FSharp.suggestGitignore": false,
+    "java.configuration.updateBuildConfiguration": "automatic"
+}
