@@ -58,8 +58,8 @@ lib/
 To run this project locally:
 
 ```bash
-git clone https://github.com/your-username/components-flutter-app.git
-cd components-flutter-app
+git clone https://github.com/Frank5005/components_app.git
+cd components_app
 flutter pub get
 flutter run
 ```
