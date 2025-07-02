@@ -67,11 +67,13 @@ flutter run
 ---
 
 🧠 Purpose
+
 This app was built for learning, practicing, and demonstrating common Flutter UI elements with clean code practices, using a simple routing and provider pattern. It’s ideal as a reference or starting point for your own Flutter projects.
 
 ---
 
 📜 License
+
 This project is open-source.
 
 ---
